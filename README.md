@@ -7,31 +7,34 @@
 - 📫 reach me :https://www.linkedin.com/in/krishnanjalivu/
 
  
-- ## ⚡**TechStack:**
-- <div style="display:flex">
+ ## ⚡**TechStack:**
+
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></code>
-
 <code><img height="40" src="https://image.pngaaa.com/400/23400-middle.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/react.svg"></code>
 
-
 <br>
 <br>
  
- </div>
+
 ## 🔥 Streak stats
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Cyblogerz's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnanjalivu&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="krishnanjalistreak" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnanjalivu&theme=monokai-metallian&hide_border=true"/>
   </a>
 
 </p>
+
+## 📊 Github stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnanjalivu&show_icons=true&theme=radical)
+
 
 
