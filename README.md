@@ -1,12 +1,14 @@
+<h1 align="center">Hey👋 , I am  Krishnanjali <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/></h1>
+
 - 👋 Hi, I’m @krishnanjalivu
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning mern stack development
 - 💞️ I’m looking to collaborate on mern stack projects
 - 📫 reach me :https://www.linkedin.com/in/krishnanjalivu/
 
-<h1 align="center">Hey👋 , I am  Krishnanjali <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/></h1>
  
 - ## ⚡**TechStack:**
+- <div style="display:flex">
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
@@ -21,6 +23,8 @@
 
 <br>
 <br>
+ 
+ </div>
 ## 🔥 Streak stats
 
 <p align="center">
